@@ -1,4 +1,4 @@
-Vincent-CS-11-VLN
+VLN CS11 Handin Repo
 ==================================
 Handin repo for CS 11 assignments
 
